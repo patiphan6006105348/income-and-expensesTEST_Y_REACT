@@ -26,7 +26,7 @@ function App() {
             }
           }>
             <div className="container">
-            <h1 style={design}>โปรแกรมบัญชีรายรับ - รายจ่าย</h1>
+            <h1 style={design}>โปรแกรมบัญชีรายรับ - รายจ่าย by Wud</h1>
 
             <ReportCompoent/>
 
